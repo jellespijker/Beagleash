@@ -1,0 +1,3 @@
+[submodule "Beagleash_sandbox"]
+	path = Beagleash_sandbox
+	url = git@github.com:peer23peer/Beagleash_sandbox.git
