@@ -4,3 +4,6 @@
 [submodule "Beagleash_Interface"]
 	path = Beagleash_Interface
 	url = git@github.com:peer23peer/Beagleash_Interface.git
+[submodule "thirdparty/pru-software-support-package"]
+	path = thirdparty/pru-software-support-package
+	url = git://git.ti.com/pru-software-support-package/pru-software-support-package.git
